@@ -1,0 +1,25 @@
+{
+  "name": "anagrams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chri5bot/anagrams.git"
+  },
+  "author": "Christian Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chri5bot/anagrams/issues"
+  },
+  "homepage": "https://github.com/chri5bot/anagrams#readme",
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0"
+  }
+}
